@@ -1,0 +1,5 @@
+id_venda,id_produto,valor,status
+1001,1,1250.5,Entregue
+1002,2,890.0,Processando
+1003,3,150.9,Entregue
+1004,1,1250.5,Cancelado
